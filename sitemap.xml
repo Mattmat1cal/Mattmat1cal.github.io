@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>Mattmat1cal.github.io/posts/coolpost/</loc>
-    <lastmod>2025-11-29T14:01:37+02:00</lastmod>
+    <loc>Mattmat1cal.github.io/about/</loc>
+    <lastmod>2025-11-29T14:22:32+02:00</lastmod>
   </url><url>
     <loc>Mattmat1cal.github.io/</loc>
+    <lastmod>2025-11-29T14:22:32+02:00</lastmod>
+  </url><url>
+    <loc>Mattmat1cal.github.io/posts/coolpost/</loc>
     <lastmod>2025-11-29T14:01:37+02:00</lastmod>
   </url><url>
     <loc>Mattmat1cal.github.io/posts/</loc>

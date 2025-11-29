@@ -6,8 +6,15 @@
     <description>Recent content on Mato Prievelio puslapiai</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Nov 2025 14:01:37 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 14:22:32 +0200</lastBuildDate>
     <atom:link href="Mattmat1cal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apie</title>
+      <link>Mattmat1cal.github.io/about/</link>
+      <pubDate>Sat, 29 Nov 2025 14:22:32 +0200</pubDate>
+      <guid>Mattmat1cal.github.io/about/</guid>
+      <description>&lt;p&gt;Aš esu Matas Prievelis, 4-o kurso programų inžinerijos studentas&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kietas postas</title>
       <link>Mattmat1cal.github.io/posts/coolpost/</link>
